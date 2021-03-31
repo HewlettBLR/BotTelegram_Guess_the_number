@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\token
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe.config
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\BotTelegram.pdb
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\Newtonsoft.Json.dll
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\System.Drawing.Common.dll
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\Telegram.Bot.dll
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\Newtonsoft.Json.xml
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\Telegram.Bot.xml
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\obj\Debug\BotTelegram.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\obj\Debug\BotTelegram.csproj.CopyComplete
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\obj\Debug\BotTelegram.exe
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\obj\Debug\BotTelegram.pdb
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\bin\Debug\img.bmp
+D:\Microsoft Visual Studio\Projects\BotTelegram\BotTelegram\obj\Debug\BotTelegram.csprojAssemblyReference.cache
